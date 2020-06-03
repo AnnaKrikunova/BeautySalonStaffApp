@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "291148101561",
+    "firebase_url": "https://beautysalon-b585c.firebaseio.com",
+    "project_id": "beautysalon-b585c",
+    "storage_bucket": "beautysalon-b585c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291148101561:android:b699e4ef2dc51eedc2a868",
+        "android_client_info": {
+          "package_name": "com.example.android.beautysalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291148101561-pmbvmhkuqqropm4mu13c025m9n4fon6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.beautysalon",
+            "certificate_hash": "cce16f171df5c0f3f44d3ee02885b12f2dfd2dd8"
+          }
+        },
+        {
+          "client_id": "291148101561-5ttdkg0657qk90hstqhjmqqpl6blugkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjO7QLkLO5IVUYhynP_KmD7NlaO99At8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291148101561-5ttdkg0657qk90hstqhjmqqpl6blugkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291148101561:android:0449a101b390f9cfc2a868",
+        "android_client_info": {
+          "package_name": "com.example.android.beautysalonstaffapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291148101561-174v22rk4255s23jako5rdok7qsloj8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.beautysalonstaffapp",
+            "certificate_hash": "cce16f171df5c0f3f44d3ee02885b12f2dfd2dd8"
+          }
+        },
+        {
+          "client_id": "291148101561-5ttdkg0657qk90hstqhjmqqpl6blugkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbjO7QLkLO5IVUYhynP_KmD7NlaO99At8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291148101561-5ttdkg0657qk90hstqhjmqqpl6blugkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
